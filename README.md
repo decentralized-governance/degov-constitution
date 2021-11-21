@@ -1,2 +1,2 @@
 # constitution-web3
-The Constitution of The People of Web3
+The Constitution Of The People Of Web3
