@@ -6,4 +6,4 @@ There's a [Constitution.md](https://github.com/markthepixel/decentralized-consti
 
 ## Appending and Changes
 1. Let's use Pull Requests and discuss a way to better decentralize the writing of this document.
-2. Discuss are taking place today in the [ConstitutionDAO Discord](https://discord.gg/p2jdESeVfy) in the [DeGov Constitution Proposal](https://discord.com/channels/908540309477150790/912074634936078366) thread.
+2. Discuss are taking place today in our [Discord](https://discord.gg/p2jdESeVfy), we encourage you to join.
