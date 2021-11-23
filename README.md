@@ -1,8 +1,9 @@
-# The Decentralized Constitution
-After the events of [ConstitutionDAO](https://www.constitutiondao.com/), it's time we all work together to construct a Decentralized Constitution for the People of the world, online and off, that we can all live by and adopt personally.
+# The DeGov Constitution
+After the events of [ConstitutionDAO](https://www.constitutiondao.com/), it's time we all work together to construct a Decentralized Governance (DeGov) Constitution for the People of the World, online and off, that we can all live by and adopt personally.
 
 ## Current Draft
-There's a [Constitution.md](https://github.com/markthepixel/decentralized-constitution/blob/main/Constitution.md) file in this repo that will act as a holding place for The Decentralized Constitution until such a time we all agree otherwise.
+There's a [Constitution.md](https://github.com/markthepixel/decentralized-constitution/blob/main/Constitution.md) file in this repo that will act as a holding place for The DeGov Constitution until such a time we all agree otherwise.
 
 ## Appending and Changes
-Let's use Pull Requests and discuss a way to better decentralize the writing of this document
+1. Let's use Pull Requests and discuss a way to better decentralize the writing of this document.
+2. Discuss are taking place today in the [ConstitutionDAO Discord](https://discord.gg/p2jdESeVfy) in the [DeGov Constitution Proposal](https://discord.com/channels/908540309477150790/912074634936078366) thread.
